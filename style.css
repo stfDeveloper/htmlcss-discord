@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  box-sizing: border-box;
+}
+.head {
+  background-color: #3161e0;
+}
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+.logo {
+  margin-left: 20px;
+}
+.header_links {
+  padding: 10px;
+}
+.cta_header {
+  color: black;
+  border-radius: 20px;
+  padding: 5px;
+  background-color: white;
+}
+.jumbopng {
+  position: relative;
+}
+.container .text {
+  position: absolute;
+  top: 200px;
+  margin-left: 75px;
+}
+.cta {
+  border-radius: 40px;
+  width: 300px;
+  padding: 20px;
+}
+.cta_scarica {
+  color: black;
+}
+.fa-arrow-down {
+  color: black;
+  padding: 10px;
+}
+.item_section{
+    margin-top: 30px;
+    color: black;!important
+}
+.lastcta{
+    text-align: center;
+    margin: auto;
+    background-image: url(img/stars.svg);
+    width: 600px;
+}
+.cta_download{
+    border-radius: 20px;
+    padding: 5px;
+    width: 200px;
+    background-color: #3161e0;
+    color: white;
+
+}
+.cta_download .fa-arrow-down{
+    color: white;
+}
+footer{
+    height: 85vh;
+    width: 100vw;
+    background-color: #23272a;
+}
+
+.footercontent{
+    height: 100%;
+    width: 80%;
+    display: inline-block;
+    position: relative;
+    margin: 0 10%;
+}
+
+.footerbox span{
+    color: white;
+}
+
+.infobox{
+    position: absolute;
+    width: 25%;
+    left: 0;
+    top: 15%;
+}
+
+.infobox h2{
+    color: #7289da;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+#flag{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+   
+} 
+
+#flag img{
+    height: 12px;
+}
+
+.infobox span{
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+.icons{
+    padding-top: 25px;
+}
+
+.icons i{
+    padding: 0 10px;
+    color: white;
+}
+
+.listbox{
+    width: 73%;
+    position: absolute;
+    top: 15%;
+    right: 0;
+    height: 70%;
+
+}
+
+.listbox ul li:first-child{
+    color: #7289da;
+}
+
+.listbox ul li{
+    color: white;
+    line-height: 30px;
+}
+
+ul{
+    display: inline-block;
+    padding: 0 20px; 
+}
+
+ul li{
+    list-style: none;
+}
+
+.bottomfooter{
+    display: inline-block;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 16vh;
+    vertical-align: middle;
+    line-height: 16vh;
+}
+
+.bottomfooter::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+hr{
+    background-color: #7289da;
+    border-color: #7289da;
+}
+
+.bottomfooter .logo{ 
+    display: inline-block;
+}
+
+#registrati{
+    margin-top: 15px;
+    background-color: #7289da;
+    border-radius: 25px;
+    float: right;
+    vertical-align: middle;
+    height: 30px;
+    line-height: 30px;
+}
+
+#registrati a{
+    text-align: center;
+    display: inline-block;
+    color: white;
+    width: 100px;
+   
+}≤
